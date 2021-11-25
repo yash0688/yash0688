@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
-<h3 align="center">A CS freshman ![Hello](https://drive.google.com/file/d/1vECRmapN-zBbmD7ab9Ugp1JaoQX5lgR1/view?usp=sharing) looking to explore new technologies.</h3>
+<h3 align="center">A CS freshman src="https://drive.google.com/file/d/1vECRmapN-zBbmD7ab9Ugp1JaoQX5lgR1/view?usp=sharing" alt="bash" width="40" height="40"/> looking to explore new technologies.</h3>
 
 - 🔭 I’m currently working on **Discord scripts**
 
