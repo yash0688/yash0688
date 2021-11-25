@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vaibhavsharma74@protonmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13qhGMrdLop13bPZ1mlm4C3neaiBVUF3I/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/13qhGMrdLop13bPZ1mlm4C3neaiBVUF3I/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
