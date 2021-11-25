@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
-<h3 align="center">A CS freshman <a href="https://ashoka.edu.in" target="blank"><img align="center" src="https://drive.google.com/file/d/1vECRmapN-zBbmD7ab9Ugp1JaoQX5lgR1/view?usp=sharing" alt="Ashoka" height="30" width="40" /></a> looking to explore new technologies.</h3>
+<h3 align="center">A CS freshman <a href="https://ashoka.edu.in" target="blank"><img align="center" src="https://cdn.discordapp.com/emojis/859043461085003776.png" alt="Ashoka" height="30" width="40" /></a> looking to explore new technologies.</h3>
 
 - 🔭 I’m currently working on **Discord scripts**
 
