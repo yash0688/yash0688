@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Python**
 
-- 👨‍💻 All of my projects are available at [vaibhavsh74.github.io](vaibhavsh7.github.io)
+- 👨‍💻 All of my projects are available at [vaibhavsh7.github.io](vaibhavsh7.github.io)
 
 - 📝 I regularly write articles on [https://forum.techhut.tv/u/vaibhav](https://forum.techhut.tv/u/vaibhav)
 
