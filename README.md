@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
 <h3 align="center">A CS freshman<a href="https://ashoka.edu.in" target="blank"><img align="center" src="https://cdn.discordapp.com/emojis/859043461085003776.png" alt="Ashoka" height="20" width="20" /></a> exploring new technologies.</h3>
 
-- 🔭 I’m currently working on **Discord scripts**
+- 🔭 I’m currently working on **Python scripts which bypass Discord automod**.
 
-- 🌱 I’m currently learning **DSA and Flutter**
+- 🌱 I’m currently learning **DSA and Flutter**.
 
-- 👯 I’m looking to collaborate on **Python**
+- 👯 I’m looking to collaborate on **Python**.
 
-- 👨‍💻 All of my projects are available at [vaibhavsh7.github.io](https://vaibhavsh7.github.io)
+- <a href="https://getfedora.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/1200px-Fedora_logo.svg.png" alt="Fedora" height="17" width="17" /></a> I am a [contributor](https://fedoraproject.org/wiki/User:Vaibhavsharma) at Fedora Project.
 
-- 📝 I regularly write articles on [https://forum.techhut.tv/u/vaibhav](https://forum.techhut.tv/u/vaibhav)
+- 👨‍💻 All of my projects are available at [vaibhavsh7.github.io](https://vaibhavsh7.github.io).
 
-- 💬 Ask me about **Python, Java, C and DSA**
+- 📝 I regularly write articles on [https://forum.techhut.tv/u/vaibhav](https://forum.techhut.tv/u/vaibhav).
 
-- 📫 How to reach me **vaibhavsharma74@protonmail.com**
+- 💬 Ask me about **Python, Java, C and DSA**.
+
+- 📫 How to reach me **vaibhavsharma74@protonmail.com**.
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/13qhGMrdLop13bPZ1mlm4C3neaiBVUF3I/view?usp=sharing).
 
