@@ -38,6 +38,8 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python   1 hr 41 mins    ███████████████████▒░░░░░   77.53 % 
+HTML     14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+YAML     14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
 ```
 <!--END_SECTION:waka-->
