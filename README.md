@@ -40,8 +40,8 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr 41 mins    ███████████████████▒░░░░░   77.53 % 
-HTML     14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-YAML     14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Python   1 hr 48 mins    ███████████████████░░░░░░   75.73 % 
+HTML     20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+YAML     14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
 ```
 <!--END_SECTION:waka-->
