@@ -40,10 +40,10 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 ```text
-Python       10 hrs 17 mins  ██████████████████████▒░░   89.88 % 
-HTML         35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-YAML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-JavaScript   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-JSX          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Python       10 hrs 17 mins  ███████████████░░░░░░░░░░   59.62 % 
+C            5 hrs 48 mins   ████████▒░░░░░░░░░░░░░░░░   33.66 % 
+HTML         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+YAML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+JavaScript   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 ```
 <!--END_SECTION:waka-->
