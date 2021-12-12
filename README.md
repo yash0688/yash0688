@@ -43,9 +43,9 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 52 mins   ████████████▒░░░░░░░░░░░░   49.29 % 
-Markdown     2 hrs 43 mins   ███████████▓░░░░░░░░░░░░░   46.62 % 
-YAML         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-Python       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+C            10 hrs 5 mins   ███████████████████▒░░░░░   77.21 % 
+Markdown     2 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.86 % 
+YAML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Python       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 <!--END_SECTION:waka-->
