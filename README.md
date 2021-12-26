@@ -43,10 +43,10 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 ```text
-C            10 hrs 52 mins  ███████████░░░░░░░░░░░░░░   43.56 % 
-JavaScript   5 hrs 53 mins   ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-Go           4 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Markdown     3 hrs 24 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Python       33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+C            10 hrs 48 mins  █████████▒░░░░░░░░░░░░░░░   37.31 % 
+JSX          7 hrs 48 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.92 % 
+JavaScript   5 hrs 59 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.69 % 
+Markdown     2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Go           1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
 ```
 <!--END_SECTION:waka-->
