@@ -43,8 +43,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 ```text
-JSX          8 hrs 22 mins   ████████████████▒░░░░░░░░   64.95 % 
-Julia        3 hrs 29 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.11 % 
-Solidity     1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+JSX     7 hrs 18 mins   █████████████████░░░░░░░░   67.67 % 
+Julia   3 hrs 29 mins   ████████░░░░░░░░░░░░░░░░░   32.33 % 
 ```
 <!--END_SECTION:waka-->
