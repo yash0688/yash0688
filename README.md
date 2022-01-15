@@ -43,6 +43,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML       7 mins          █████████████████████▓░░░   87.01 % 
+CSS        1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
 ```
 <!--END_SECTION:waka-->
