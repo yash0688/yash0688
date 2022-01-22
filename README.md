@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
 <h3 align="center">A CS freshman<a href="https://ashoka.edu.in" target="blank"><img align="center" src="https://cdn.discordapp.com/emojis/859043461085003776.png" alt="Ashoka" height="20" width="20" /></a> exploring new technologies.</h3>
 
+![](https://github.com/vaibhavsh7/vaibhavsh7/raw/output/github-contribution-grid-snake.svg)
+
 - 🔭 I’m currently working on **Python scripts which bypass Discord automod**.
 
 - 🌱 I’m currently learning **DSA and Flutter**.
