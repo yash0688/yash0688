@@ -48,8 +48,9 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 ```text
-HTML         3 mins          █████████████░░░░░░░░░░░░   52.39 % 
-CSS          2 mins          ████████░░░░░░░░░░░░░░░░░   31.55 % 
-JavaScript   1 min           ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+YAML         12 mins         ██████████▓░░░░░░░░░░░░░░   42.51 % 
+JavaScript   10 mins         █████████░░░░░░░░░░░░░░░░   36.18 % 
+Markdown     4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+HTML         2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 ```
 <!--END_SECTION:waka-->
