@@ -48,7 +48,6 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 ```text
-Java         4 hrs 57 mins   ████████████████████████░   96.60 % 
-JavaScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Java    4 hrs 57 mins   █████████████████████████   99.98 % 
 ```
 <!--END_SECTION:waka-->
