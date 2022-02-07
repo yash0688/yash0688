@@ -6,7 +6,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **Python scripts which bypass Discord automod**.
+- 🔭 I’m currently working on **Solidity Smart Contracts**.
 
 - 🌱 I’m currently learning **DSA and Flutter**.
 
