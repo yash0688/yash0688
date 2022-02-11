@@ -48,9 +48,10 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   7 hrs           ██████████████████▒░░░░░░   73.55 % 
-C            1 hr 35 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-Python       49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Java         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+JavaScript    7 hrs           ████████████████████░░░░░   79.40 % 
+C             1 hr 35 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Java          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Python        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Standard ML   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 <!--END_SECTION:waka-->
