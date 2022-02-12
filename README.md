@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
 <h3 align="center">A CS freshman<a href="https://ashoka.edu.in" target="blank"><img align="center" src="https://cdn.discordapp.com/emojis/859043461085003776.png" alt="Ashoka" height="20" width="20" /></a> exploring new technologies.</h3>
 
-<p align="center">
-  <img src="https://github.com/vaibhavsh7/vaibhavsh7/blob/output/github-contribution-grid-snake.svg">
-</p>
 
 
 - 🔭 I’m currently working on **Solidity Smart Contracts**.
@@ -55,3 +52,6 @@ fish          6 mins          ▒░░░░░░░░░░░░░░░�
 Standard ML   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 <!--END_SECTION:waka-->
+<p align="center">
+  <img src="https://github.com/vaibhavsh7/vaibhavsh7/blob/output/github-contribution-grid-snake.svg">
+</p>
