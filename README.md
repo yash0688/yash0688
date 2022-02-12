@@ -48,10 +48,10 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript    7 hrs           ████████████████████░░░░░   79.40 % 
-C             1 hr 35 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Java          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-Python        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-Standard ML   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+JavaScript    7 hrs           ████████████░░░░░░░░░░░░░   48.44 % 
+Bash          5 hrs 44 mins   ██████████░░░░░░░░░░░░░░░   39.70 % 
+C             1 hr 35 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+fish          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Standard ML   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 <!--END_SECTION:waka-->
