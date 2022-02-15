@@ -45,11 +45,11 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 ```text
-Crystal      7 hrs 50 mins   ████████▓░░░░░░░░░░░░░░░░   34.94 % 
-JavaScript   7 hrs           ███████▓░░░░░░░░░░░░░░░░░   31.23 % 
-Bash         5 hrs 44 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.61 % 
-C            1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-Python       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Crystal      7 hrs 50 mins   █████████▒░░░░░░░░░░░░░░░   37.96 % 
+JavaScript   6 hrs 42 mins   ████████░░░░░░░░░░░░░░░░░   32.46 % 
+Bash         5 hrs 44 mins   ███████░░░░░░░░░░░░░░░░░░   27.81 % 
+Python       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+fish         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 <!--END_SECTION:waka-->
 <p align="center">
