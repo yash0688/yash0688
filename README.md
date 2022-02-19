@@ -45,12 +45,10 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 ```text
-Total: 14 hrs 15 mins
+Total: 8 hrs 23 mins
 
-Crystal    8 hrs 9 mins    ██████████████▒░░░░░░░░░░   57.24 % 
-Bash       5 hrs 44 mins   ██████████░░░░░░░░░░░░░░░   40.32 % 
-Python     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-fish       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Crystal    8 hrs 9 mins    ████████████████████████▒   97.19 % 
+Python     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 ```
 <!--END_SECTION:waka-->
 <p align="center">
