@@ -45,8 +45,6 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 ```text
-Total: 8 hrs 23 mins
-
 Crystal    8 hrs 9 mins    ████████████████████████▒   97.19 % 
 Python     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 ```
