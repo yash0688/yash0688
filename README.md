@@ -45,8 +45,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 ```text
-Crystal    8 hrs 9 mins    ████████████████████████▒   97.19 % 
-Python     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Crystal   18 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 <p align="center">
