@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 ```text
-Crystal   18 mins         █████████████████████████   100.00 % 
+Markdown   6 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 <p align="center">
