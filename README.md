@@ -11,7 +11,7 @@
 
 - <a href="https://getfedora.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/1200px-Fedora_logo.svg.png" alt="Fedora" height="17" width="17" /></a> I am a [contributor](https://fedoraproject.org/wiki/User:Vaibhavsharma) at Fedora Project.
 
-- 👨‍💻 My portfolio website : [vaibhav7.xyz](http://vaibhav7.xyz).
+- 👨‍💻 My portfolio website : [vaibhav7.xyz](https://vaibhav7.xyz).
 
 - 📝 I regularly write articles on [https://forum.techhut.tv/u/vaibhav](https://forum.techhut.tv/u/vaibhav).
 
