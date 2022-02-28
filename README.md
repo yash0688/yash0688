@@ -45,13 +45,15 @@
 </div>
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   10 hrs 33 mins  ██████████████████████▓░░   90.84 % 
-HTML         37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-Markdown     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-CSS          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+JavaScript   31 hrs 29 mins  ████████████████████████▒   96.73 %
+HTML         37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Markdown     17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+CSS          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
+
 <!--END_SECTION:waka-->
 <p align="center">
   <img src="https://github.com/vaibhavsh7/vaibhavsh7/blob/output/github-contribution-grid-snake.svg">
