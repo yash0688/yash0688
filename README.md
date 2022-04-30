@@ -47,7 +47,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Common Lisp   12 mins         █████████████████████████   100.00 %
+Python    25 mins         ████████████████████████░   96.17 %
+Crystal   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
 ```
 
 <!--END_SECTION:waka-->
