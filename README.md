@@ -47,8 +47,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python    25 mins         ████████████████████████░   96.17 %
-Crystal   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Python        1 hr 29 mins    ███████████████████████▓░   95.06 %
+Standard ML   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Crystal       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
