@@ -47,8 +47,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   1 min           ██████████████████████▓░░   90.68 %
-Pawn     0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
