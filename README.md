@@ -47,10 +47,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Solidity      24 hrs 40 mins  ████████████████████████▒   97.53 %
+Solidity      24 hrs 40 mins  ████████████████████████▒   97.55 %
 Common Lisp   35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
 Python        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-JavaScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
