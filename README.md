@@ -47,7 +47,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Crystal   8 mins          ██████████████████▒░░░░░░   73.02 %
+HTML      3 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.64 %
+Other     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
