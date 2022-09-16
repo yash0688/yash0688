@@ -47,8 +47,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Crystal   9 mins          █████████████▓░░░░░░░░░░░   54.67 %
-Other     3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
+Other     3 mins          ██████████████▓░░░░░░░░░░   59.13 %
 ```
 
 <!--END_SECTION:waka-->
