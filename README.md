@@ -47,12 +47,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       10 mins         ████████████████████▓░░░░   82.92 %
-Markdown     1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
-JavaScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Crystal      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
