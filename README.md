@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img align="center" src="https://github.com/vaibhavsh7/vaibhavsh7/blob/main/wave.gif" alt="Wave" height="45" width="45" /></a>, I'm Vaibhav Sharma</h1>
+<h1 align="center">Hi <img align="center" src="https://github.com/fenestbuc/fenestbuc/blob/main/wave.gif" alt="Wave" height="45" width="45" /></a>, I'm Vaibhav Sharma</h1>
 <h3 align="center">A CS freshman<a href="https://ashoka.edu.in" target="blank"><img align="center" src="https://cdn.discordapp.com/emojis/859043461085003776.png" alt="Ashoka" height="20" width="20" /></a> exploring new technologies.</h3>
 
 
@@ -34,14 +34,14 @@
 
 <!---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vaibhavsh7&left_color=green&right_color=red)
-[![Visits Badge](https://badges.pufler.dev/visits/vaibhavsh7/git-badges)](https://badges.pufler.dev)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fenestbuc&left_color=green&right_color=red)
+[![Visits Badge](https://badges.pufler.dev/visits/fenestbuc/git-badges)](https://badges.pufler.dev)
 --->
 
 
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=vaibhavsh7&theme=dracula&show_icons=true&hide_border=false" width="350" align="right" /></a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhavsh7&theme=dracula&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="350" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=fenestbuc&theme=dracula&show_icons=true&hide_border=false" width="350" align="right" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fenestbuc&theme=dracula&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="350" /></a>
 </div>
 
 <!--START_SECTION:waka-->
@@ -52,7 +52,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 <p align="center">
-  <img src="https://github.com/vaibhavsh7/vaibhavsh7/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/fenestbuc/fenestbuc/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 <!---
